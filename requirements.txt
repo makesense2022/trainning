@@ -1,0 +1,33 @@
+# AI Agent 开发训练营依赖包
+
+# 基础工具
+python-dotenv==1.0.0
+requests==2.31.0
+
+# LangChain 核心
+langchain==0.1.0
+langchain-openai==0.0.2
+langchain-community==0.0.10
+
+# 向量数据库
+chromadb==0.4.22
+faiss-cpu==1.7.4
+
+# 文档加载
+pypdf==3.17.4
+unstructured==0.11.8
+
+# 嵌入模型
+sentence-transformers==2.2.2
+
+# 测试工具
+pytest==7.4.3
+pytest-asyncio==0.21.1
+
+# Jupyter (可选，用于调试)
+jupyter==1.0.0
+ipykernel==6.27.1
+
+# 工具
+pydantic==2.5.3
+
