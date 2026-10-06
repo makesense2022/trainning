@@ -1,3 +1,5 @@
+> 2026-10-01：当前离线复现与材料状态见 [主入口](../README.md)。下文是保留的课程计划；“完整/已完成/生产级/几天掌握”不等同于个人验收。模型配置和旧依赖未在本轮联网复核。
+
 # 快速开始指南
 
 > 10分钟设置好开发环境，立即开始学习
@@ -26,7 +28,7 @@ python --version
 ### 步骤 2: 创建虚拟环境
 
 ```bash
-cd /Users/zhangjunnan/Documents/code/trainning/ai-agent-training
+cd /Users/zhangjunnan/Documents/Projects/trainning/ai-agent-training
 
 # 创建虚拟环境
 python3 -m venv venv

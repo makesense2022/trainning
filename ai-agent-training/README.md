@@ -1,3 +1,5 @@
+> 2026-10-01：当前离线复现与材料状态见 [主入口](../README.md)。下文是保留的课程计划；“完整/已完成/生产级/几天掌握”不等同于个人验收。模型配置和旧依赖未在本轮联网复核。
+
 # AI Agent 开发加速训练营
 
 > 为有14年前端经验的架构师定制的Python + LangChain + AI Agent速成课程
@@ -53,7 +55,7 @@ pip install -r requirements.txt
 
 ```bash
 # 复制环境变量模板
-cp .env.example .env
+cp env.example .env
 
 # 编辑.env文件，填入您的API Key
 # OPENAI_API_KEY=sk-xxx
